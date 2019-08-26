@@ -1,2 +1,5 @@
 # Launch-14
-Planning and data from Launch 14 of LV3.1
+
+**Preliminary launch dates:** Weekend of October 26-27th.
+**Location:** Oregon Rocketry launch site near Brothers, Oregon.
+**Flight:** Launch Vehicle 3.1 (LV3.1) on a commercial "N" motor.
