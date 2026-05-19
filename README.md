@@ -1,8 +1,8 @@
 # Launch-14
 
 ## Misc Info
-### Preliminary Launch Dates
-Weekend of July 23rd, 2021.
+### Launch Date
+May 16th, 2026.
 
 ### Location
 Oregon Rocketry launch site near Brothers, Oregon.
